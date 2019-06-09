@@ -1,20 +1,20 @@
 {
   "name": "hexo-tag-asciinema",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple plugin to embed asciinema into hexo",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zenyai/hexo-tag-asciinema.git"
+    "url": "git+https://github.com/narongdejsrn/hexo-tag-asciinema.git"
   },
   "bugs": {
-    "url": "https://github.com/zenyai/hexo-tag-asciinema/issues"
+    "url": "https://github.com/narongdejsrn/hexo-tag-asciinema/issues"
   },
   "keywords": [
     "hexo",
     "asciinema"
   ],
-  "author": "Narongdej Sarnsuwan <zenyaith@gmail.com>",
+  "author": "Narongdej Sarnsuwan <narongdej@sarnsuwan.com>",
   "license": "MIT",
-  "homepage": "https://github.com/zenyai/hexo-tag-asciinema#readme"
+  "homepage": "https://github.com/narongdejsrn/hexo-tag-asciinema#readme"
 }
