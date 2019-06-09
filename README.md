@@ -8,7 +8,7 @@
 ---
 A simple plugin to embed asciinema into hexo
 
-##  Installation
+## Installation
 ``
 npm install --save hexo-tag-asciinema
 ``

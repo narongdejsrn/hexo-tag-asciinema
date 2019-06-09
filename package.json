@@ -1,6 +1,6 @@
 {
   "name": "hexo-tag-asciinema",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A simple plugin to embed asciinema into hexo",
   "main": "index.js",
   "repository": {
